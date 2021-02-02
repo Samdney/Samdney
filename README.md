@@ -4,7 +4,11 @@
 - Tor project volunteer <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/torproject.svg" />
 - Free time artist
 
+
+## Current work
+<div style="text-align: center;">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samdney&repo=paper-analysisecho)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 ## Funding options
