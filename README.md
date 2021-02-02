@@ -16,7 +16,7 @@ Have a look at my <a href="https://research.carolin-zoebelein.de/files/cv_longve
 
 
 ## Current work on GitHub
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samdney&repo=paper-analysisecho)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samdney&repo=paper-analysisecho)](https://github.com/Samdney/paper-analysisecho)
 
 
 ## Funding options
