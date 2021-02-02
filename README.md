@@ -6,9 +6,7 @@
 
 
 ## Current work
-<div style="text-align: center;">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samdney&repo=paper-analysisecho)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 ## Funding options
