@@ -8,7 +8,7 @@ a new kind of censorship free, access to knowledge warranty, privacy and anonymi
 - Tor project volunteer
 - Free time artist
 
-<a href="https://research.carolin-zoebelein.de/files/cv_longversion.pdf" title="External: CV" target="_blank">CV</a>
+Have a look at my <a href="https://research.carolin-zoebelein.de/files/cv_longversion.pdf" title="External: CV" target="_blank">CV</a>!
 
 <a href="https://research.carolin-zoebelein.de" title="External: Research" target="_blank">https://research.carolin-zoebelein.de</a><br />
 <a href="https://art.carolin-zoebelein.de" title="External: Art" target="_blank">https://art.carolin-zoebelein.de</a><br />
