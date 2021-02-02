@@ -1,7 +1,11 @@
 # About me
 
-- Research Scientist (Math, Computer Science) 
-- Tor project volunteer <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/torproject.svg" />
+- Research Scientist (Mathematical- and Theoretical Computer Science)<br />
+Focus on Mathematical Computer Science of Distributed Network Structures & Protocols as well as Theoretical
+Computer Science like Algorithms, Combinatorics & Optimization, and Number Theory, with the aim of designing
+a new kind of censorship free, access to knowledge warranty, privacy and anonymity preserving internet
+
+- Tor project volunteer
 - Free time artist
 
 <a href="https://research.carolin-zoebelein.de/files/cv_longversion.pdf" title="External: CV" target="_blank">CV</a>
@@ -11,7 +15,7 @@
 <a href="https://blog.carolin-zoebelein.de" title="External: Blog" target="_blank">https://blog.carolin-zoebelein.de</a>
 
 
-## Current work
+## Current work at GitHub
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samdney&repo=paper-analysisecho)](https://github.com/anuraghazra/github-readme-stats)
 
 
