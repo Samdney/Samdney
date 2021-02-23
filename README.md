@@ -15,10 +15,6 @@ Have a look at my <a href="https://research.carolin-zoebelein.de/files/cv_longve
 <a href="https://blog.carolin-zoebelein.de" title="External: Blog" target="_blank">https://blog.carolin-zoebelein.de</a>
 
 
-## Current work on GitHub
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samdney&repo=paper-analysisecho)](https://github.com/Samdney/paper-analysisecho)
-
-
 ## Funding options
 
 You can support my work by ...<br />
